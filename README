@@ -1,0 +1,8 @@
+ tmpswap
+ 
+Write input to a temporary file, then back to a named file.
+
+
+ AUTHOR
+
+Matan Nassau <matan.nassau@gmail.com>
