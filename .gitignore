@@ -1,0 +1,5 @@
+*.o
+*.a
+*.dep
+src/tmpswap
+src/static_config.hh
