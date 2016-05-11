@@ -1,0 +1,5 @@
+let g:netrw_list_hide='\v\.(o|a|dep)$|<((check_)?tmpswap|check|static_config\.hh)$'
+let g:ctrlp_custom_ignore = {
+      \ 'file': '\v\.(o|a|dep)$|<((check_)?tmpswap|check|static_config\.hh)$',
+      \ 'dir': '\v/(.*\.app)$',
+      \ }
